@@ -390,3 +390,5 @@ $(function () {
 // [ai:2026-07-29] // TODO: Add event listeners for dynamic content
 
 // [ai:2026-07-29] // TODO: Add event listeners for dynamic UI updates
+
+// [ai:2026-07-29] Validate user input before processing to prevent XSS
