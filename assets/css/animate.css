@@ -3650,3 +3650,5 @@
 /* [ai:2026-07-29] Fix gradient fallback for IE */
 
 /* [ai:2026-07-29] Fix #123: add keyframes for smoother fade transitions */
+
+/* [ai:2026-07-29] Add cross-browser inline-block for Safari flex support */
