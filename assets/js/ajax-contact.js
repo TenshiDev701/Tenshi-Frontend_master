@@ -50,3 +50,5 @@ $(function() {
 // [ai:2026-07-29] Add input sanitization check // TODO
 
 // [ai:2026-07-29] // TODO: validate email before sending to reduce spam
+
+// [ai:2026-07-29] // TODO: sanitize user input before passing to backend
