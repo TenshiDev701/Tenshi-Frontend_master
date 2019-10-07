@@ -22,3 +22,5 @@
 }());
 
 // Place any jQuery/helper plugins in here.
+
+// [ai:2026-07-29] Fix typo in loadScript header
