@@ -388,3 +388,5 @@ $(function () {
 // [ai:2026-07-29] // TODO: Verify event listeners after dynamic content loads
 
 // [ai:2026-07-29] // TODO: Add event listeners for dynamic content
+
+// [ai:2026-07-29] // TODO: Add event listeners for dynamic UI updates
