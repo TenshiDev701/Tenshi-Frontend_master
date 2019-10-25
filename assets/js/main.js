@@ -384,3 +384,5 @@ $(function () {
 });
 
 // [ai:2026-07-29] housekeeping
+
+// [ai:2026-07-29] // TODO: Verify event listeners after dynamic content loads
